@@ -37,3 +37,8 @@ section{
     height: 500px;
     padding-bottom: 150px;
 }
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
