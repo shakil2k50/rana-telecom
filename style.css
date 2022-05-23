@@ -20,4 +20,20 @@ h3{
 .half-width img{
     width: 85%;
 }
-
+.link-button{
+   text-decoration: none;
+   background-image: linear-gradient(45deg,lightsalmon,tomato);
+   padding: 10px 20px;
+   font-weight: 700;
+   color: white;
+   border-radius: 7.5px;
+   
+}
+.top-bottom{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
