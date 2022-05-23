@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto Flex', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 3.5%;
+}
+.half-width img{
+    width: 85%;
+}
+
